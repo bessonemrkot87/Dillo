@@ -212,4 +212,4 @@ Dillo is provided as a **full free version** with all features and updates inclu
 Ready to experience the retro browsing experience? **Download Dillo free today and rediscover the Internet!**
 
 ---
-**Last updated:** 2026-11-03 15:42:49 UTC
+**Last updated:** 2026-11-03 21:25:32 UTC
